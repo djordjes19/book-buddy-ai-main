@@ -1,0 +1,6 @@
+vector_db/*
+!vector_db/
+
+.env
+
+.DS_Store
